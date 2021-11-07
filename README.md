@@ -1,6 +1,6 @@
 ### Welcome! 
 
-I am currently working on Web 3.0 development, and DS&A.
+I am currently working on Web 3.0 development and DS&A.
 
 <p align="center">
   <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
